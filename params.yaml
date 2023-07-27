@@ -1,0 +1,9 @@
+components:
+  parameters:
+    very-important-param:
+      type: string
+      maxLength: 42
+      minLength: 7
+      pattern: '[a-z0-9]{7,42}'
+      #description: a pretty important parameter
+      example: "abcdefghijk"

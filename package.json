@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@redocly/cli": "^1.0.0",
+    "rdme": "^8.6.4"
+  }
+}
